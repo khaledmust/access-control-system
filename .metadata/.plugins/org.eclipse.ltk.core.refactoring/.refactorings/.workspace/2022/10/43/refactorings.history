@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;access-contorl-system&apos; to &apos;access-control-system&apos;" description="Rename resource &apos;access-contorl-system&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/access-contorl-system" name="access-control-system" stamp="1665901662469" updateReferences="true"/>
+</session>
